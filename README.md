@@ -1,7 +1,7 @@
 # ECG Signal Processing using Berger Algorithm for HRV
 
 ## Project Overview
-The Berger-HRV project aims to analyze and understand Heart Rate Variability by implementing the Berger algorithm. HRV provides insights into the dynamic interactions between the sympathetic and parasympathetic branches of the autonomic nervous system, which regulate heart rate and cardiovascular function. By detecting and quantifying HRV, researchers can gain valuable information about cardiac health, stress levels, and overall autonomic nervous system activity.
+The Berger-HRV project aims to analyze and understand Heart Rate Variability by implementing the Berger algorithm. HRV provides insights into the dynamic interactions between the sympathetic and parasympathetic branches of the autonomic nervous system, which regulate heart rate and cardiovascular function. Detections and quantifying HRV, can result in valuable information about cardiac health, stress levels, and overall autonomic nervous system activity.
 
 ## Berger Algorithm for HRV Analysis
 The project utilizes the Berger algorithm, a well-established method for HRV analysis. The Berger algorithm involves the following key steps:
